@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BlogReader</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_blog">BlogActivity</string>
+    <string name="title_activity_blog_details">BlogDetailsActivity</string>
+    <string name="blog_details">blog details sample</string>
+    <string name="loading">Loading &#8230;</string>
+    <string name="title_activity_rssmanager">My RSS Feed</string>
+	<string name="rss_list_xml">rss_list.xml</string>
+	<string name="subscribe">subscribe</string>
+	<string name="my_subscribe">My Subscribe</string>
+	<string name="all_subscribe">Find Subscribe</string>
+	
+	<string name="attach">Sliding menu</string>
+</resources>
